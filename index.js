@@ -55,7 +55,7 @@ const questionsPrompt = () => {
         },
         {
             type: "input",
-            name: "testInstructions",
+            name: "tests",
             message: "How would the user conduct a test?"
         },
         {
