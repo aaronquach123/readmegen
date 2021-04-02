@@ -30,7 +30,7 @@
   Aaron Quach
 
   ## Tests
-  undefined
+  Set up breakpoints in code editor and run application to check for errors
 
   ## Questions
   My github: aaronquach123
